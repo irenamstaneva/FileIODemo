@@ -1,0 +1,7 @@
+C:\Users\35989\source\repos\irena07022022\Array_Example_1\bin\Debug\Array_Example_1.exe.config
+C:\Users\35989\source\repos\irena07022022\Array_Example_1\bin\Debug\Array_Example_1.exe
+C:\Users\35989\source\repos\irena07022022\Array_Example_1\bin\Debug\Array_Example_1.pdb
+C:\Users\35989\source\repos\irena07022022\Array_Example_1\obj\Debug\Array_Example_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\35989\source\repos\irena07022022\Array_Example_1\obj\Debug\Array_Example_1.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\irena07022022\Array_Example_1\obj\Debug\Array_Example_1.exe
+C:\Users\35989\source\repos\irena07022022\Array_Example_1\obj\Debug\Array_Example_1.pdb

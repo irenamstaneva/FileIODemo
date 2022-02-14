@@ -1,0 +1,8 @@
+C:\Users\35989\source\repos\irena07022022\2D_Array_Example_2\bin\Debug\2D_Array_Example_2.exe.config
+C:\Users\35989\source\repos\irena07022022\2D_Array_Example_2\bin\Debug\2D_Array_Example_2.exe
+C:\Users\35989\source\repos\irena07022022\2D_Array_Example_2\bin\Debug\2D_Array_Example_2.pdb
+C:\Users\35989\source\repos\irena07022022\2D_Array_Example_2\obj\Debug\2D_Array_Example_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\35989\source\repos\irena07022022\2D_Array_Example_2\obj\Debug\2D_Array_Example_2.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\irena07022022\2D_Array_Example_2\obj\Debug\2D_Array_Example_2.exe
+C:\Users\35989\source\repos\irena07022022\2D_Array_Example_2\obj\Debug\2D_Array_Example_2.pdb
+C:\Users\35989\source\repos\irena07022022\2D_Array_Example_2\obj\Debug\2D_Array_Example_2.csproj.AssemblyReference.cache
