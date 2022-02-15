@@ -1,0 +1,7 @@
+C:\Users\35989\source\repos\irena07022022\ExceptionTestClass\bin\Debug\ExceptionTestClass.exe.config
+C:\Users\35989\source\repos\irena07022022\ExceptionTestClass\bin\Debug\ExceptionTestClass.exe
+C:\Users\35989\source\repos\irena07022022\ExceptionTestClass\bin\Debug\ExceptionTestClass.pdb
+C:\Users\35989\source\repos\irena07022022\ExceptionTestClass\obj\Debug\ExceptionTestClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\35989\source\repos\irena07022022\ExceptionTestClass\obj\Debug\ExceptionTestClass.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\irena07022022\ExceptionTestClass\obj\Debug\ExceptionTestClass.exe
+C:\Users\35989\source\repos\irena07022022\ExceptionTestClass\obj\Debug\ExceptionTestClass.pdb
