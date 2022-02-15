@@ -1,0 +1,11 @@
+C:\Users\35989\source\repos\irena07022022\MyNewFriendsList\bin\Debug\MyNewFriendsList.exe.config
+C:\Users\35989\source\repos\irena07022022\MyNewFriendsList\bin\Debug\MyNewFriendsList.exe
+C:\Users\35989\source\repos\irena07022022\MyNewFriendsList\bin\Debug\MyNewFriendsList.pdb
+C:\Users\35989\source\repos\irena07022022\MyNewFriendsList\obj\Debug\MyNewFriendsList.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\irena07022022\MyNewFriendsList\obj\Debug\MyNewFriendsList.csproj.SuggestedBindingRedirects.cache
+C:\Users\35989\source\repos\irena07022022\MyNewFriendsList\obj\Debug\MyNewFriendsList.Properties.Resources.resources
+C:\Users\35989\source\repos\irena07022022\MyNewFriendsList\obj\Debug\MyNewFriendsList.csproj.GenerateResource.cache
+C:\Users\35989\source\repos\irena07022022\MyNewFriendsList\obj\Debug\MyNewFriendsList.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\irena07022022\MyNewFriendsList\obj\Debug\MyNewFriendsList.exe
+C:\Users\35989\source\repos\irena07022022\MyNewFriendsList\obj\Debug\MyNewFriendsList.pdb
+C:\Users\35989\source\repos\irena07022022\MyNewFriendsList\obj\Debug\MyNewFriendsList.MyFriends.resources
