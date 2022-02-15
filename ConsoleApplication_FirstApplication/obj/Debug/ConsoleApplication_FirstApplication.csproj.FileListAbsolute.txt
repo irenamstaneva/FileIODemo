@@ -1,0 +1,8 @@
+C:\Users\35989\source\repos\irena07022022\ConsoleApplication_FirstApplication\obj\Debug\ConsoleApplication_FirstApplication.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\irena07022022\ConsoleApplication_FirstApplication\obj\Debug\ConsoleApplication_FirstApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\35989\source\repos\irena07022022\ConsoleApplication_FirstApplication\obj\Debug\ConsoleApplication_FirstApplication.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\irena07022022\ConsoleApplication_FirstApplication\bin\Debug\ConsoleApplication_FirstApplication.exe.config
+C:\Users\35989\source\repos\irena07022022\ConsoleApplication_FirstApplication\bin\Debug\ConsoleApplication_FirstApplication.exe
+C:\Users\35989\source\repos\irena07022022\ConsoleApplication_FirstApplication\bin\Debug\ConsoleApplication_FirstApplication.pdb
+C:\Users\35989\source\repos\irena07022022\ConsoleApplication_FirstApplication\obj\Debug\ConsoleApplication_FirstApplication.exe
+C:\Users\35989\source\repos\irena07022022\ConsoleApplication_FirstApplication\obj\Debug\ConsoleApplication_FirstApplication.pdb
