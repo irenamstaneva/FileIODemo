@@ -1,0 +1,11 @@
+C:\Users\35989\source\repos\irena07022022\FileIOGUI\bin\Debug\FileIOGUI.exe.config
+C:\Users\35989\source\repos\irena07022022\FileIOGUI\bin\Debug\FileIOGUI.exe
+C:\Users\35989\source\repos\irena07022022\FileIOGUI\bin\Debug\FileIOGUI.pdb
+C:\Users\35989\source\repos\irena07022022\FileIOGUI\obj\Debug\FileIOGUI.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\irena07022022\FileIOGUI\obj\Debug\FileIOGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\35989\source\repos\irena07022022\FileIOGUI\obj\Debug\FileIOGUI.Form1.resources
+C:\Users\35989\source\repos\irena07022022\FileIOGUI\obj\Debug\FileIOGUI.Properties.Resources.resources
+C:\Users\35989\source\repos\irena07022022\FileIOGUI\obj\Debug\FileIOGUI.csproj.GenerateResource.cache
+C:\Users\35989\source\repos\irena07022022\FileIOGUI\obj\Debug\FileIOGUI.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\irena07022022\FileIOGUI\obj\Debug\FileIOGUI.exe
+C:\Users\35989\source\repos\irena07022022\FileIOGUI\obj\Debug\FileIOGUI.pdb
