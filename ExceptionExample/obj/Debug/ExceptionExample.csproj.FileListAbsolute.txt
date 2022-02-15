@@ -1,0 +1,8 @@
+C:\Users\35989\source\repos\irena07022022\ExceptionExample\bin\Debug\ExceptionExample.exe.config
+C:\Users\35989\source\repos\irena07022022\ExceptionExample\bin\Debug\ExceptionExample.exe
+C:\Users\35989\source\repos\irena07022022\ExceptionExample\bin\Debug\ExceptionExample.pdb
+C:\Users\35989\source\repos\irena07022022\ExceptionExample\obj\Debug\ExceptionExample.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\irena07022022\ExceptionExample\obj\Debug\ExceptionExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\35989\source\repos\irena07022022\ExceptionExample\obj\Debug\ExceptionExample.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\irena07022022\ExceptionExample\obj\Debug\ExceptionExample.exe
+C:\Users\35989\source\repos\irena07022022\ExceptionExample\obj\Debug\ExceptionExample.pdb
