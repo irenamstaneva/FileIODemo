@@ -1,0 +1,7 @@
+C:\Users\35989\source\repos\irena07022022\ExceptionFilltering_Example\bin\Debug\ExceptionFilltering_Example.exe.config
+C:\Users\35989\source\repos\irena07022022\ExceptionFilltering_Example\bin\Debug\ExceptionFilltering_Example.exe
+C:\Users\35989\source\repos\irena07022022\ExceptionFilltering_Example\bin\Debug\ExceptionFilltering_Example.pdb
+C:\Users\35989\source\repos\irena07022022\ExceptionFilltering_Example\obj\Debug\ExceptionFilltering_Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\35989\source\repos\irena07022022\ExceptionFilltering_Example\obj\Debug\ExceptionFilltering_Example.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\irena07022022\ExceptionFilltering_Example\obj\Debug\ExceptionFilltering_Example.exe
+C:\Users\35989\source\repos\irena07022022\ExceptionFilltering_Example\obj\Debug\ExceptionFilltering_Example.pdb
