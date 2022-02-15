@@ -1,0 +1,8 @@
+C:\Users\35989\source\repos\irena07022022\CargoShipLoader\bin\Debug\CargoShipLoader.exe.config
+C:\Users\35989\source\repos\irena07022022\CargoShipLoader\bin\Debug\CargoShipLoader.exe
+C:\Users\35989\source\repos\irena07022022\CargoShipLoader\bin\Debug\CargoShipLoader.pdb
+C:\Users\35989\source\repos\irena07022022\CargoShipLoader\obj\Debug\CargoShipLoader.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\irena07022022\CargoShipLoader\obj\Debug\CargoShipLoader.csproj.SuggestedBindingRedirects.cache
+C:\Users\35989\source\repos\irena07022022\CargoShipLoader\obj\Debug\CargoShipLoader.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\irena07022022\CargoShipLoader\obj\Debug\CargoShipLoader.exe
+C:\Users\35989\source\repos\irena07022022\CargoShipLoader\obj\Debug\CargoShipLoader.pdb
