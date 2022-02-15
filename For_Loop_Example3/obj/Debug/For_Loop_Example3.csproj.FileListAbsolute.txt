@@ -1,0 +1,7 @@
+C:\Users\35989\source\repos\irena07022022\For_Loop_Example3\bin\Debug\For_Loop_Example3.exe.config
+C:\Users\35989\source\repos\irena07022022\For_Loop_Example3\bin\Debug\For_Loop_Example3.exe
+C:\Users\35989\source\repos\irena07022022\For_Loop_Example3\bin\Debug\For_Loop_Example3.pdb
+C:\Users\35989\source\repos\irena07022022\For_Loop_Example3\obj\Debug\For_Loop_Example3.csproj.SuggestedBindingRedirects.cache
+C:\Users\35989\source\repos\irena07022022\For_Loop_Example3\obj\Debug\For_Loop_Example3.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\irena07022022\For_Loop_Example3\obj\Debug\For_Loop_Example3.exe
+C:\Users\35989\source\repos\irena07022022\For_Loop_Example3\obj\Debug\For_Loop_Example3.pdb
