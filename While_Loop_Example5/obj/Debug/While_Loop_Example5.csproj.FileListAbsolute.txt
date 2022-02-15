@@ -1,0 +1,7 @@
+C:\Users\35989\source\repos\irena07022022\While_Loop_Example5\obj\Debug\While_Loop_Example5.csproj.SuggestedBindingRedirects.cache
+C:\Users\35989\source\repos\irena07022022\While_Loop_Example5\obj\Debug\While_Loop_Example5.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\irena07022022\While_Loop_Example5\bin\Debug\While_Loop_Example5.exe.config
+C:\Users\35989\source\repos\irena07022022\While_Loop_Example5\bin\Debug\While_Loop_Example5.exe
+C:\Users\35989\source\repos\irena07022022\While_Loop_Example5\bin\Debug\While_Loop_Example5.pdb
+C:\Users\35989\source\repos\irena07022022\While_Loop_Example5\obj\Debug\While_Loop_Example5.exe
+C:\Users\35989\source\repos\irena07022022\While_Loop_Example5\obj\Debug\While_Loop_Example5.pdb
