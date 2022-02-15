@@ -1,0 +1,11 @@
+C:\Users\35989\source\repos\irena07022022\CargoShip2\bin\Debug\CargoShip2.exe.config
+C:\Users\35989\source\repos\irena07022022\CargoShip2\bin\Debug\CargoShip2.exe
+C:\Users\35989\source\repos\irena07022022\CargoShip2\bin\Debug\CargoShip2.pdb
+C:\Users\35989\source\repos\irena07022022\CargoShip2\obj\Debug\CargoShip2.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\irena07022022\CargoShip2\obj\Debug\CargoShip2.csproj.SuggestedBindingRedirects.cache
+C:\Users\35989\source\repos\irena07022022\CargoShip2\obj\Debug\CargoShip2.Form1.resources
+C:\Users\35989\source\repos\irena07022022\CargoShip2\obj\Debug\CargoShip2.Properties.Resources.resources
+C:\Users\35989\source\repos\irena07022022\CargoShip2\obj\Debug\CargoShip2.csproj.GenerateResource.cache
+C:\Users\35989\source\repos\irena07022022\CargoShip2\obj\Debug\CargoShip2.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\irena07022022\CargoShip2\obj\Debug\CargoShip2.exe
+C:\Users\35989\source\repos\irena07022022\CargoShip2\obj\Debug\CargoShip2.pdb
