@@ -1,0 +1,11 @@
+C:\Users\35989\source\repos\irena07022022\TempConversion\bin\Debug\TempConversion.exe.config
+C:\Users\35989\source\repos\irena07022022\TempConversion\bin\Debug\TempConversion.exe
+C:\Users\35989\source\repos\irena07022022\TempConversion\bin\Debug\TempConversion.pdb
+C:\Users\35989\source\repos\irena07022022\TempConversion\obj\Debug\TempConversion.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\irena07022022\TempConversion\obj\Debug\TempConversion.csproj.SuggestedBindingRedirects.cache
+C:\Users\35989\source\repos\irena07022022\TempConversion\obj\Debug\TempConversion.Form1.resources
+C:\Users\35989\source\repos\irena07022022\TempConversion\obj\Debug\TempConversion.Properties.Resources.resources
+C:\Users\35989\source\repos\irena07022022\TempConversion\obj\Debug\TempConversion.csproj.GenerateResource.cache
+C:\Users\35989\source\repos\irena07022022\TempConversion\obj\Debug\TempConversion.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\irena07022022\TempConversion\obj\Debug\TempConversion.exe
+C:\Users\35989\source\repos\irena07022022\TempConversion\obj\Debug\TempConversion.pdb
