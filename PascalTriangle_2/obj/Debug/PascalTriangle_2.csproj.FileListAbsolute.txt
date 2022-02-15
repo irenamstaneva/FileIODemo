@@ -1,0 +1,8 @@
+C:\Users\35989\source\repos\irena07022022\PascalTriangle_2\bin\Debug\PascalTriangle_2.exe.config
+C:\Users\35989\source\repos\irena07022022\PascalTriangle_2\bin\Debug\PascalTriangle_2.exe
+C:\Users\35989\source\repos\irena07022022\PascalTriangle_2\bin\Debug\PascalTriangle_2.pdb
+C:\Users\35989\source\repos\irena07022022\PascalTriangle_2\obj\Debug\PascalTriangle_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\35989\source\repos\irena07022022\PascalTriangle_2\obj\Debug\PascalTriangle_2.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\irena07022022\PascalTriangle_2\obj\Debug\PascalTriangle_2.exe
+C:\Users\35989\source\repos\irena07022022\PascalTriangle_2\obj\Debug\PascalTriangle_2.pdb
+C:\Users\35989\source\repos\irena07022022\PascalTriangle_2\obj\Debug\PascalTriangle_2.csproj.AssemblyReference.cache
