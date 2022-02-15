@@ -1,0 +1,8 @@
+C:\Users\35989\source\repos\irena07022022\FileIODemo\bin\Debug\FileIODemo.exe.config
+C:\Users\35989\source\repos\irena07022022\FileIODemo\bin\Debug\FileIODemo.exe
+C:\Users\35989\source\repos\irena07022022\FileIODemo\bin\Debug\FileIODemo.pdb
+C:\Users\35989\source\repos\irena07022022\FileIODemo\obj\Debug\FileIODemo.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\irena07022022\FileIODemo\obj\Debug\FileIODemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\35989\source\repos\irena07022022\FileIODemo\obj\Debug\FileIODemo.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\irena07022022\FileIODemo\obj\Debug\FileIODemo.exe
+C:\Users\35989\source\repos\irena07022022\FileIODemo\obj\Debug\FileIODemo.pdb
