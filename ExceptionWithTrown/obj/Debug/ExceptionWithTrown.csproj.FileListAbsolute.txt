@@ -1,0 +1,7 @@
+C:\Users\35989\source\repos\irena07022022\ExceptionWithTrown\obj\Debug\ExceptionWithTrown.csproj.SuggestedBindingRedirects.cache
+C:\Users\35989\source\repos\irena07022022\ExceptionWithTrown\obj\Debug\ExceptionWithTrown.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\irena07022022\ExceptionWithTrown\bin\Debug\ExceptionWithTrown.exe.config
+C:\Users\35989\source\repos\irena07022022\ExceptionWithTrown\bin\Debug\ExceptionWithTrown.exe
+C:\Users\35989\source\repos\irena07022022\ExceptionWithTrown\bin\Debug\ExceptionWithTrown.pdb
+C:\Users\35989\source\repos\irena07022022\ExceptionWithTrown\obj\Debug\ExceptionWithTrown.exe
+C:\Users\35989\source\repos\irena07022022\ExceptionWithTrown\obj\Debug\ExceptionWithTrown.pdb
