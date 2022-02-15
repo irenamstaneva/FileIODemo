@@ -1,0 +1,11 @@
+C:\Users\35989\source\repos\irena07022022\HelloWorldWinFormsApp\obj\Debug\HelloWorldWinFormsApp.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\irena07022022\HelloWorldWinFormsApp\obj\Debug\HelloWorldWinFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\35989\source\repos\irena07022022\HelloWorldWinFormsApp\obj\Debug\HelloWorldWinFormsApp.Form1.resources
+C:\Users\35989\source\repos\irena07022022\HelloWorldWinFormsApp\obj\Debug\HelloWorldWinFormsApp.Properties.Resources.resources
+C:\Users\35989\source\repos\irena07022022\HelloWorldWinFormsApp\obj\Debug\HelloWorldWinFormsApp.csproj.GenerateResource.cache
+C:\Users\35989\source\repos\irena07022022\HelloWorldWinFormsApp\obj\Debug\HelloWorldWinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\irena07022022\HelloWorldWinFormsApp\bin\Debug\HelloWorldWinFormsApp.exe.config
+C:\Users\35989\source\repos\irena07022022\HelloWorldWinFormsApp\bin\Debug\HelloWorldWinFormsApp.exe
+C:\Users\35989\source\repos\irena07022022\HelloWorldWinFormsApp\bin\Debug\HelloWorldWinFormsApp.pdb
+C:\Users\35989\source\repos\irena07022022\HelloWorldWinFormsApp\obj\Debug\HelloWorldWinFormsApp.exe
+C:\Users\35989\source\repos\irena07022022\HelloWorldWinFormsApp\obj\Debug\HelloWorldWinFormsApp.pdb
