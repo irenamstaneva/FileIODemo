@@ -1,0 +1,7 @@
+C:\Users\35989\source\repos\irena07022022\ThrowException_Example\bin\Debug\ThrowException_Example.exe.config
+C:\Users\35989\source\repos\irena07022022\ThrowException_Example\bin\Debug\ThrowException_Example.exe
+C:\Users\35989\source\repos\irena07022022\ThrowException_Example\bin\Debug\ThrowException_Example.pdb
+C:\Users\35989\source\repos\irena07022022\ThrowException_Example\obj\Debug\ThrowException_Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\35989\source\repos\irena07022022\ThrowException_Example\obj\Debug\ThrowException_Example.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\irena07022022\ThrowException_Example\obj\Debug\ThrowException_Example.exe
+C:\Users\35989\source\repos\irena07022022\ThrowException_Example\obj\Debug\ThrowException_Example.pdb
