@@ -1,0 +1,11 @@
+C:\Users\35989\source\repos\irena07022022\SquareCalculator\bin\Debug\SquareCalculator.exe.config
+C:\Users\35989\source\repos\irena07022022\SquareCalculator\bin\Debug\SquareCalculator.exe
+C:\Users\35989\source\repos\irena07022022\SquareCalculator\bin\Debug\SquareCalculator.pdb
+C:\Users\35989\source\repos\irena07022022\SquareCalculator\obj\Debug\SquareCalculator.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\irena07022022\SquareCalculator\obj\Debug\SquareCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\35989\source\repos\irena07022022\SquareCalculator\obj\Debug\SquareCalculator.Form1.resources
+C:\Users\35989\source\repos\irena07022022\SquareCalculator\obj\Debug\SquareCalculator.Properties.Resources.resources
+C:\Users\35989\source\repos\irena07022022\SquareCalculator\obj\Debug\SquareCalculator.csproj.GenerateResource.cache
+C:\Users\35989\source\repos\irena07022022\SquareCalculator\obj\Debug\SquareCalculator.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\irena07022022\SquareCalculator\obj\Debug\SquareCalculator.exe
+C:\Users\35989\source\repos\irena07022022\SquareCalculator\obj\Debug\SquareCalculator.pdb
